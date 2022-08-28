@@ -22,7 +22,10 @@ export default function Index() {
     <Carousel.Slide><Board title="Waiting" image="/img4.png"/></Carousel.Slide>
     <Carousel.Slide><Board title="Socrates" image="/img5.png"/></Carousel.Slide>
     <Carousel.Slide><Board title="Jesuve" image="/img6.png"/></Carousel.Slide>
-    
+    <Carousel.Slide><Board title="Gorge" image="/img7.png"/></Carousel.Slide>
+    <Carousel.Slide><Board title="edge" image="/img8.png"/></Carousel.Slide>
+    <Carousel.Slide><Board title="Thing" image="/achillefreud.png"/></Carousel.Slide>
+    <Carousel.Slide><Board title="Ideology" image="/slavojclown.png"/></Carousel.Slide>
 
    </Carousel>
 

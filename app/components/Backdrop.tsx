@@ -11,10 +11,9 @@ function Backdrop({children}: Props) {
     sx={{
         height: "100%",
 
-        backgroundImage: `url("/Crito.webp")`,
-        backgroundSize: "cover",
-        backgroundPosition: "center",
-        backgroundRepeat: "no-repeat",
+        backgroundImage: `url("/iionbg.png
+        ")`,
+   
         
     }}>
         <Center>
